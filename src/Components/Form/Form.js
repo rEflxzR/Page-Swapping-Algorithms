@@ -37,7 +37,7 @@ class FormPage extends Component {
     async handleSubmitClick(evt) {
         evt.preventDefault()
         if(this.state.algorithm!==null  && this.state.frames!==0 && this.state.stringInput!=='' && this.state.stringInput!==' ') {
-            const apiurl = `http://localhost:3000/resolve`
+            const apiurl = `http://${window.location.hostname}:${window.location.port}/resolve`
             const inputstring = this.state.stringInput
             const frames = this.state.frames
             const algo = this.state.algorithm
