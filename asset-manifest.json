@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Page-Swapping-Algorithms/static/css/main.cad18114.chunk.css",
+    "main.js": "/Page-Swapping-Algorithms/static/js/main.88977333.chunk.js",
+    "main.js.map": "/Page-Swapping-Algorithms/static/js/main.88977333.chunk.js.map",
+    "runtime-main.js": "/Page-Swapping-Algorithms/static/js/runtime-main.006b41cd.js",
+    "runtime-main.js.map": "/Page-Swapping-Algorithms/static/js/runtime-main.006b41cd.js.map",
+    "static/js/2.7568b90a.chunk.js": "/Page-Swapping-Algorithms/static/js/2.7568b90a.chunk.js",
+    "static/js/2.7568b90a.chunk.js.map": "/Page-Swapping-Algorithms/static/js/2.7568b90a.chunk.js.map",
+    "static/js/3.f5217c74.chunk.js": "/Page-Swapping-Algorithms/static/js/3.f5217c74.chunk.js",
+    "static/js/3.f5217c74.chunk.js.map": "/Page-Swapping-Algorithms/static/js/3.f5217c74.chunk.js.map",
+    "index.html": "/Page-Swapping-Algorithms/index.html",
+    "static/css/main.cad18114.chunk.css.map": "/Page-Swapping-Algorithms/static/css/main.cad18114.chunk.css.map",
+    "static/js/2.7568b90a.chunk.js.LICENSE.txt": "/Page-Swapping-Algorithms/static/js/2.7568b90a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.006b41cd.js",
+    "static/js/2.7568b90a.chunk.js",
+    "static/css/main.cad18114.chunk.css",
+    "static/js/main.88977333.chunk.js"
+  ]
+}
